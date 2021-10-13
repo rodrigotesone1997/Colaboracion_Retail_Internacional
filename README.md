@@ -8,18 +8,18 @@
   </a>
 </p>
 
-Colabore con un empleado de [Tottus](https://www.tottus.com.pe/quienes-somos) para resolver un problema de automatización de recoleccion de datos dentro de la empresa.</br>
+Colabore con un empleado de una empresa de Retail Internacional para resolver un problema de automatización de recoleccion de datos dentro de la empresa.</br>
 El proyecto consistio en realizar un script que al momento de ejecutarse crea 2 nuevas columnas (una en la que se escriben 1 o 0) dependiendo si esta o no el producto. La otra columna anota la fecha donde fue ejecutado el script.</br>
 
 > El repositorio consta de:</br>
-> - Un arhcivo de [excel](inventario.xlsx) de prueba (no es el real) donde se almacenan los datos
+> - Un archivo de [excel](inventario.xlsx) de prueba (no es el real) donde se almacenan los datos
 > - Un [script](proceso_automatizado.py) que al ejecutarlo automatiza el proceso de la creación de columnas
 
-## 📂 Clonar Reposotorio
+## 📂 Clonar Repositorio
 
 ```
 
-git clone https://github.com/rodrigotesone1997/Colaboracion_Tottus.git
+git clone https://github.com/rodrigotesone1997/Colaboracion_Retail_Internacional.git
 
 ```
 
@@ -31,7 +31,7 @@ Python 3.8.10
 
 ## ⚙️ Uso
 1. Clonar de repositorio
-2. `cd Colaboracion_Tottus`
+2. `cd Colaboracion_Retail_Internacional`
 3. Instalar las depedencias `pip install -r requirements.txt`
 4. Leer el código y ver los comentarios para ver su uso.
 5. Ejecutar [proceso_automatizado.py](proceso_automatizado.py)
