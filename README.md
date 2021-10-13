@@ -10,6 +10,7 @@
 
 Colabore con un empleado de una empresa de Retail Internacional para resolver un problema de automatización de recoleccion de datos dentro de la empresa.</br>
 El proyecto consistio en realizar un script que al momento de ejecutarse crea 2 nuevas columnas (una en la que se escriben 1 o 0) dependiendo si esta o no el producto. La otra columna anota la fecha donde fue ejecutado el script.</br>
+Esta información va a ser usada para analizar el comportamiento del stock y preveer posibles quiebres de stock.
 
 > El repositorio consta de:</br>
 > - Un archivo de [excel](inventario.xlsx) de prueba (no es el real) donde se almacenan los datos
